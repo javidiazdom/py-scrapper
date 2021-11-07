@@ -1,4 +1,5 @@
-# Python scrapper 
+# Python scrapper
+
 Javier Díaz Domínguez
 
 ## Ficheros
@@ -9,6 +10,9 @@ El fichero que se debe ejecutar. En él se importa el código encargado de ejecu
 
 ### 2. `scrapper.py`
 
+Contiene la lógica encargada de realizar la petición a la web scrapeada y realizar la extracción y transformación de los datos a formato `.csv`
 
 
 ### 3. `scrapper.pdf`
+
+Contiene las respuestas a los apartados indicados en la especificación de la práctica.
