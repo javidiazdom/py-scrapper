@@ -3,7 +3,7 @@ import ssl
 from bs4 import BeautifulSoup
 from dateutil import parser
 
-class CanaryCovidScrapper():
+class CanaryVolcanoScrapper():
 
     def __init__(self):
         self.url = "https://www.ign.es"
